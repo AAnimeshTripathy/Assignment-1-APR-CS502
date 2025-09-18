@@ -1,0 +1,5 @@
+Model_Name,Accuracy,Number_of_Features,Data_Type
+Logistic_Regression_Original,0.8100558659217877,10,Original
+Logistic_Regression_PCA,0.8100558659217877,8,PCA_Transformed
+Random_Forest_Original,0.8268156424581006,10,Original
+Random_Forest_PCA,0.8212290502793296,8,PCA_Transformed
